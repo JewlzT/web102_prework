@@ -1,8 +1,8 @@
-# WEB102 Prework - *Web 102 PreWork*
+# WEB102 Prework - *Sea Monster Games*
 
 Submitted by: **Julianne Tomlinson**
 
-**Web 102 PreWork** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **5** hours spent in total
 
